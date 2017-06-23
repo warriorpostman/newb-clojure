@@ -1,6 +1,6 @@
 # newb-clojure
 
-FIXME: description
+Learning Clojure.
 
 ## Installation
 
@@ -15,6 +15,8 @@ FIXME: explanation
 ## Options
 
 FIXME: listing of options this app accepts.
+
+No options yet :)
 
 ## Examples
 
